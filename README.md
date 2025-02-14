@@ -6,3 +6,5 @@
 `git log --oneline --graph --all`: Shows a condensed and visually structured commit history for all branches, not just the current branch. 
 `branch`: A parallel version of the project that allows independent development without affecting the main codebase.
 `pull request`:  A request to merge changes from one branch into another, used for code review before merging.
+`git add`: Stages changes to the specified file, preparing it for inclusion in the next commit.
+`git commit`: Creates a commit with the staged changes.
